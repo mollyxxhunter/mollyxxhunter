@@ -4,8 +4,7 @@ chr0memango/chr0memango is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. -->
 
 
-![Python](https://img.shields.io/badge/Python-Beginner-CFD7E8?logo=Python&logoColor=ffffff) ![C++](https://img.shields.io/badge/C++-Novice-CFD7E8?logo=C++&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-Novice-CFD7E8?logo=MySQL&logoColor=ffffff) ![Arduino](https://img.shields.io/badge/Arduino-Novice-CFD7E8?logo=Arduino&logoColor=ffffff) ![Fusion360](https://img.shields.io/badge/Fusion360-Novice-CFD7E8?logo=Autodesk&logoColor=ffffff)
-
+![Python](https://img.shields.io/badge/Python-Beginner-CFD7E8?logo=Python&logoColor=ffffff) ![C++](https://img.shields.io/badge/C++-Novice-CFD7E8?logo=C++&logoColor=ffffff) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-CFD7E8?logo=googlecloud&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-Novice-CFD7E8?logo=MySQL&logoColor=ffffff) ![Arduino](https://img.shields.io/badge/Arduino-Novice-CFD7E8?logo=Arduino&logoColor=ffffff) ![Fusion360](https://img.shields.io/badge/Fusion360-Novice-CFD7E8?logo=Autodesk&logoColor=ffffff)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifelsebambi&langs_count=20&bg_color=CFD7E8&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly (ifelsebambi) Gustafson<br> I'm a Software Engineer • Python<br>I'm working toward my bachelors in SWE @ UMC.<br> ✔ I have completed a 530 hour Software Engineer Internship. <Br> ⏳ Currently working on Undergraduate Research in AI<br><br>Skills: <ul align="left"> <li>Programming: Python, C++</li><li>Backend Integrations / CLI</li><li>Learning: Embedded Engineering Arduino R3 & R4</li> <li>Software Design & Construction</li> </ul> </p><p align="left"><br> |
 |-------------------------|-------------------------|
