@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes. -->
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyxxhunter&langs_count=20&bg_color=CFD7E8&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Hunter<br> I'm a Software Engineer • 🎯 Python<br>I'm working toward my bachelors in SWE @ UMC.<br><br> ✔ I have completed a 530 hour Software Engineer Internship. <br>*What I practiced:* <br>✦ Backend Integrations / Node.js / CLI,<br>✦ Software Design & Construction, <br>✦ Google Cloud & Firebase, IAM Permissions,<br>✦ Web Development, HTML/CSS/JS |
 |-------------------------|-------------------------|
-*GOALS* <br><br> ⊹ Read 444 books, [checkout goodreads](https://www.goodreads.com/ifelsebambi) <br> ⊹ 800 credit score  | *FUN FACTS* (✿◠‿◠) <br><br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* <br> ⊹ I normally workout 5 days/week, health is important to me <br> ⊹ spend most of my time in the sun or on a paddleboard, SUPyoga! <Br>⊹ I dream of an urban jungle🍃<br>
+*GOALS* <br><br> ⊹ Read 444 books, [checkout goodreads](https://www.goodreads.com/mollyxxhunter) <br> ⊹ 800 credit score  | *FUN FACTS* (✿◠‿◠) <br><br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* <br> ⊹ I normally workout 5 days/week, health is important to me <br> ⊹ spend most of my time in the sun or on a paddleboard, SUPyoga! <Br>⊹ I dream of an urban jungle🍃<br>
 
 
 
